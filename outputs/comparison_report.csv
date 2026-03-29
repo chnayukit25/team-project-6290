@@ -1,0 +1,4 @@
+direction,n_samples,plain_accuracy,he_accuracy,plain_f1,he_f1,plain_roc_auc,he_roc_auc,prediction_agreement,prob_mae,prob_max_error,plain_time_ms,he_encrypt_ms,he_infer_ms,he_total_ms
+A 暴跌风险,100,0.57,0.57,0.0,0.0,0.2008,0.2008,1.0,2e-08,1e-06,0.0008,1.59,2.99,4.58
+B 波动率风险,100,1.0,1.0,1.0,1.0,,,1.0,0.0,0.0,0.0007,1.59,3.0,4.59
+C 链上异常,100,0.86,0.86,0.6818,0.6818,0.9552,0.9552,1.0,0.0,0.0,0.0007,1.6,3.0,4.6
